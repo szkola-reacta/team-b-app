@@ -1,4 +1,5 @@
 import "./App.css";
+
 import { Video } from './components/Video';
 import { movies } from './api/db.json';
 
