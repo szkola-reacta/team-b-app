@@ -13,7 +13,7 @@ const Video = ( {maxWidth, video} ) => {
     if (typeof video === 'undefined') {
         return (
             <div style={styles}>
-                <Video404 style={styles} />
+                <Video404 />
             </div>
         )
     }
