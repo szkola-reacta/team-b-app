@@ -7,7 +7,8 @@ const Video = ( {maxWidth, video} ) => {
     const styles = {
         maxWidth: `${maxWidth}px`,
         padding: 20,
-        background: '#2c3e50',
+        background: '#eee',
+        margin: '0 auto',
     }
 
     if (typeof video === 'undefined') {
