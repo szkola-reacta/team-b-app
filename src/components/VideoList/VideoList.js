@@ -8,7 +8,7 @@ function VideoList() {
 		<div className="video-list-container">
 			{ movies.map( element => {
 				return(
-					<div className="video-list-element">
+					<div key={element.id} className="video-list-element">
 						<Video maxWidth="600" video={ element }/>
 					</div>
 				);

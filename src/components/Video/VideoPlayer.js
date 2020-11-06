@@ -3,7 +3,7 @@ import ReactPlayer from 'react-player'
 
 const VideoPlayer = ( {url} ) => {
     return (
-        <ReactPlayer url={url} width="100%" />
+        <ReactPlayer url={url} controls={true} width="100%" />
     )
 }
 
