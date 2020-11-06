@@ -1,0 +1,126 @@
+{
+
+  "movies": [
+    {
+      "id": 0,
+      "title": "Kurs C# - Podstawy programowania - 9. Konstrukcje decyzyjne",
+      "description": "Film jest częścią serii KURS C# - Podstawy programowania.Kurs powstał z myślą o osobach początkujących, które chciałyby nauczyć się podstaw programowania w języku C# na praktycznych i prostych do zrozumienia przykładach.",
+      "video_url": "https://youtu.be/jcdnZKadOPo"
+    },
+    {
+      "id": 1,
+      "title": "01. Wstęp do CSS Grid [KURS CSS GRID]",
+      "description": "Cześć, w tym odcinku zrobimy sobie wstęp do CSS Grid. Poznacie podstawowe pojęcia, których używamy podczas pracy z tą technologią.",
+      "video_url": "https://youtu.be/Tqu3ssntMa4"
+    },
+    {
+      "id": 2,
+      "title": "02. grid-template-columns & grid-template-rows [KURS CSS GRID]",
+      "description": "W tym odcinku dowiemy się jak tworzyć kolumny oraz rzędy w CSS Grid za pomocą grid-template-columns oraz grid-template-rows.Poznamy również nową responsywną jednostkę – frakcje. ",
+      "video_url": "https://youtu.be/zxGRCGf75bA"
+    },
+    {
+      "id": 3,
+      "title": "03. Narzędzia Deweloperskie Firefox [KURS CSS GRID]",
+      "description": "Trzeci odcinek kursu, w którym to poznamy zacne narzędzia deweloperskie, oferowane przez Firefoxa, które ułatwiają pracę z CSS Grid.",
+      "video_url": "https://youtu.be/UB9vVesDL40"
+    },
+    {
+      "id": 4,
+      "title": "04. Zadanie #1 [KURS CSS GRID]",
+      "description": "Czeka na Was małe zadanie, które pomoże utrwalić wiedzę z poprzednich odcinków. :)",
+      "video_url": "https://youtu.be/Se9ahOTJp1U"
+    },
+    {
+      "id": 5,
+      "title": "Opole 2012 - Maciej Stuhr - „Rozmowa telefoniczna",
+      "description": "Nieporadny abonent dzwoni do swojego operatora. Po drugiej stronie trafia jednak na problemy. Czy infolinia będzie w stanie wyprowadzić go z równowagi?",
+      "video_url": "https://youtu.be/3nrdq9eHApI"
+    },
+    {
+      "id": 6,
+      "title": "Kabaret Skeczów Męczących - Psychiatryk",
+      "description": "Pacjent szpitala psychiatrycznego szykuje się do przeprowadzenia zamachu na premiera. Kto zlecił mu zabójstwo? ",
+      "video_url": "https://youtu.be/QkNLZ17dRUs"
+    },
+    {
+      "id": 7,
+      "title": "Neo-Nówka - NIEBO (wpadka) POPRAWIONA JAKOŚĆ OBRAZU",
+      "description": "Najlepszy skecz XXX-lecia ",
+      "video_url": "https://youtu.be/z_p5_bLLkFU"
+    },
+    {
+      "id": 8,
+      "title": "Neo-Nówka - Teleexpress (Bez cenzury ) (HD)",
+      "description": "Październik 2020 a to jest tak aktualne jak nigdy... Tylko nie wiadomo czy się śmiać czy płakać. Brawo Panowie!",
+      "video_url": "https://youtu.be/ijiWcGzIThQ"
+    },
+    {
+      "id": 9,
+      "title": "Paranienormalni: Żarty się skończyły - Mariolka vs policjant",
+      "description": "Jedyny kabaret który jeszcze rozsmiesza",
+      "video_url": "https://youtu.be/r2JY89xiq_E"
+    },
+    {
+      "id": 10,
+      "title": "Świętokrzyska Gala Kabaretowa - Paranienormalni - Sprawa dla reportera",
+      "description": "Czas na Paranienormalnych i sprawę. Sprawę dla reportera, rzecz jasna",
+      "video_url": "https://youtu.be/iM87cjLCCwI"
+    },
+    {
+      "id": 11,
+      "title": "Mikołaj Macioszczyk vs. Anna Malek - 'Cry To Me' - Bitwy - The Voice of Poland 11",
+      "description": "Para zaśpiewała przebój z filmu „Dirty Dancing”. – Po prostu chcemy zrobić dobry duet – romantyczny, trochę zadziorny, taki kolorowy – zapowiedziała Anna przed występem, a Mikołaj potwierdził skinieniem głowy. A jak wyszło? – Słuchajcie, na tym etapie nie miało być występu gwiazd międzynarodowych… - zauważył Tomson. ",
+      "video_url": "https://youtu.be/xuSjTRAMXeg"
+    },
+    {
+      "id": 12,
+      "title": "Krystian Ochman vs. Weronika Szymańska - 'Lovely' - Bitwy - The Voice of Poland 11",
+      "description": "Podczas treningów młodzi wokaliści przyznawali, że nie wiedzieli jak zaśpiewać piękną piosenkę Billie Eilish. – Błagam Was. Obudźcie się! – nawoływał Michał Szpak. Czy skutecznie? Po występie był aplauz publiczności i oklaski na stojąco trenerów. – Zapomniałam, gdzie ja jestem. I to jest wasza zasługa – wyznała Edyta Górniak. A co powiedzieli inni? ",
+      "video_url": "https://youtu.be/IHJzoYd-wAA"
+    },
+    {
+      "id": 13,
+      "title": "Roksana Węgiel – „Halo” – Przesłuchania w ciemno – The Voice Kids Poland",
+      "description": "Ta dziewczynka to prawdziwy wulkan energii. Jest odważna, pomysłowa i wszędzie jej pełno. Uprawia akrobatykę, taniec towarzyski oraz należy do hip-hopowej grupy R-Revolution. Jej największą pasją jest judo. Podczas „Przesłuchań w Ciemno” zaśpiewa wielki przebój Beyoncé „Halo” i zrobi muzyczne Ippon seoi nage (chwyt judo). To właśnie do niej Edyta Górniak powie: Myślę, że Beyoncé w Twoim wieku nie miała takiego głosu. Ale czy Roksana wybierze jej drużynę?",
+      "video_url": "https://youtu.be/hm--wlbA5eQ"
+    },
+    {
+      "id": 14,
+      "title": "Marcin Maciejczak - 'Rise Like a Phoenix' - Finał | The Voice Kids Poland 3",
+      "description": "Conchita Wurst tą piosenką wygrała konkurs Eurowizji. Jak poszło Marcinowi, ulubieńcowi publiczności z drużyny Dawida Kwiatkowskiego? ",
+      "video_url": "https://youtu.be/BsHN6z9ENbQ"
+    },
+    {
+      "id": 15,
+      "title": "Wszyscy trenerzy - 'All I Want For Christmas Is You' | The Voice Kids Poland 3",
+      "description": "W nastrój świąt wprowadzą nas wszyscy trenerzy trzeciej edycji „The Voice Kids”, czyli Cleo, Dawid Kwiatkowski oraz Tomson i Baron.",
+      "video_url": "https://youtu.be/RXlolLloL8M"
+    },
+    {
+      "id": 16,
+      "title": "Masza i Niedźwiedź. Słodyczy … nigdy dość!",
+      "description": "Śmieszne bajki dla dzieci",
+      "video_url": "https://youtu.be/Jgkwd3R7bHA"
+    },
+    {
+      "id": 17,
+      "title": "Wilk i Zając. W domu techniki",
+      "description": "Kto to pamięta?",
+      "video_url": "https://youtu.be/gkFUbx2ASEg"
+    },
+    {
+      "id": 18,
+      "title": "BOLEK I LOLEK NA DZIKIM ZACHODZIE",
+      "description": "Kto to pamięta?",
+      "video_url": "https://youtu.be/Ya2z8K_y-Mc"
+    },
+    {
+      "id": 19,
+      "title": "Pat & Mat - Kulečník",
+      "description": "Pat a Mat si pořídí kulečníkový stůl, ale po složení zjistí na něm technickou závadu, která jim brání v rozehrání parie. Po jednoduché opravě už můžou ukázat svoje mistrovské zacházení s tágem.",
+      "video_url": "https://youtu.be/AeQSoSuYRB0"
+    }
+  ]
+}
+

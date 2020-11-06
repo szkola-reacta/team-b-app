@@ -1,0 +1,14 @@
+.video-list-element {
+	border: 2px solid black;
+	border-radius: 5px;
+	margin: 10px;
+	width: fit-content;
+	background-color: #eee;
+}
+
+.video-list-container {
+	display: flex;
+	justify-content: space-around;
+	flex-wrap: wrap;
+
+}
