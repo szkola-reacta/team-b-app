@@ -2,6 +2,7 @@ import "./App.css";
 
 import { Video } from './components/Video';
 import { movies } from './api/db.json';
+import { VideoList } from './components/VideoList';
 
 function App() {
   return (
