@@ -3,8 +3,6 @@ import getVideoId from 'get-video-id';
 
 const VideoThumb = ( {url, title} ) => {
 
-    console.log(window.location);
-
     const imgSrc = getImgSrc(getVideoId(url));
 
     return (
