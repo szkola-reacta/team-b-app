@@ -1,5 +1,5 @@
 import React from 'react';
-import { Video } from '../Video';
+import { VideoListItem } from './';
 import { movies } from '../../api/db.json';
 import './VideoList.css';
 
@@ -9,7 +9,7 @@ function VideoList() {
 			{ movies.map( element => {
 				return(
 					<div key={element.id} className="video-list-element">
-						<Video maxWidth="600" video={ element }/>
+						<VideoListItem maxWidth="600" video={ element }/>
 					</div>
 				);
 			})}

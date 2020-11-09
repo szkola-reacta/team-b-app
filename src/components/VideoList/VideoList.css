@@ -12,3 +12,23 @@
 	flex-wrap: wrap;
 
 }
+
+.video-thumb {
+	width: 150px;
+	display: inline-block;
+	margin: 0 10px 5px 0;
+	float: left;
+}
+
+.video-thumb img {
+	width: 150px;
+}
+
+.video-list-element p {
+	text-align: left;
+	display: inline-block;
+	min-width: 200px;
+	max-width: calc(100% - 160px);
+	margin: 0;
+	float: left;
+}
